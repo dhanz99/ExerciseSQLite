@@ -1,4 +1,4 @@
-package com.example.exercisesqlite;
+package com.hirdhanaghnia.exercisesqlite;
 
 import org.junit.Test;
 
